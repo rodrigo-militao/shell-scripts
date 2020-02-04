@@ -1,5 +1,5 @@
 #!/bin/bash
-# Pogramador baum demais! 
+# Eu sou Tryber e serei Desenvolvedor ! 
 FILES=$*
 
 for FILE in $FILES
