@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Pogramador baum demais! 
 FILES=$*
 
 for FILE in $FILES
