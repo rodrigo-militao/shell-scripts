@@ -1,6 +1,5 @@
 #!/bin/bash
 # Eu sou Tryber e serei Desenvolvedor ! 
-
 FILES=$*
 
 for FILE in $FILES
